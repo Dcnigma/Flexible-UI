@@ -24,6 +24,7 @@ MonoBehaviour:
   declineicon: {fileID: 21300000, guid: cad2e548fc5b74346b9a7d472d8d5de0, type: 3}
   warningColor: {r: 0.21960784, g: 0.25882354, b: 0.3019608, a: 1}
   warningicon: {fileID: 21300000, guid: 5c6d9e64ffe1a497f91aa60858c0cf35, type: 3}
-  text: Help
-  TextColor: {r: 1, g: 0, b: 0, a: 1}
-  Texticon: {fileID: 21300000, guid: cf28a3ad54ac5407f9258e3ef54dc872, type: 3}
+  text: START
+  TextColor: {r: 1, g: 1, b: 1, a: 1}
+  Texticon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  TextBlockColor: {r: 0.06650088, g: 0.3149848, b: 0.9044118, a: 1}

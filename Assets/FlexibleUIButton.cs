@@ -78,10 +78,11 @@ public class FlexibleUIButton : FlexibleUI
 	case ButtonType.Warning:
 		image.color = skinData.warningColor;
 		icon.sprite = skinData.warningicon;
-			text.gameObject.SetActive(false);
+		text.gameObject.SetActive(false);
 		break;
 
 	case ButtonType.Text:
+		image.color = skinData.TextBlockColor;
 		text.gameObject.SetActive(true);	
 		text.color= skinData.TextColor;
 		icon.sprite = skinData.Texticon;

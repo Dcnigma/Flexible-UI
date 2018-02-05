@@ -24,6 +24,7 @@ MonoBehaviour:
   declineicon: {fileID: 21300000, guid: 4c737b67366844fb6b7c1e1c14868ab7, type: 3}
   warningColor: {r: 0.2827586, g: 1, b: 0, a: 1}
   warningicon: {fileID: 21300000, guid: cf28a3ad54ac5407f9258e3ef54dc872, type: 3}
-  text: Quit !!!
+  text: '!!!QUIT!!!'
   TextColor: {r: 1, g: 1, b: 1, a: 1}
-  Texticon: {fileID: 21300000, guid: 88b8e6daab4a34317a6e032892612e15, type: 3}
+  Texticon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  TextBlockColor: {r: 1, g: 0, b: 0.8896551, a: 1}
