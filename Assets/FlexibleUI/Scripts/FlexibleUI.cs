@@ -18,6 +18,10 @@ public class FlexibleUI : MonoBehaviour {
 	}
 	public virtual void Update()
 	{
-		OnSkinUI();
+	//Remove this update function in a big Update because its system resource killer
+		if (Application.isEditor) 
+		{
+			OnSkinUI ();
+		}
 	}
 }

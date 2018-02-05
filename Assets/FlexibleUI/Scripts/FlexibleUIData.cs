@@ -6,6 +6,7 @@ using UnityEngine.UI;
 [CreateAssetMenu(menuName = "Flexible UI Data")]
 public class FlexibleUIData : ScriptableObject
 {
+	[Header("Flexible Button")]
 	public Sprite buttonSprite;
 	public SpriteState buttonSpriteState;
 
@@ -21,4 +22,9 @@ public class FlexibleUIData : ScriptableObject
 
 	public Color warningColor;
 	public Sprite warningicon;
+
+	[Header("Text")]
+	public string text;
+	public Color TextColor;
+	public Sprite Texticon;
 }
