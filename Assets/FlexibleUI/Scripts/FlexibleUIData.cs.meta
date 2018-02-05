@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 91b5791c1df6c45a0bb96a13e83c6dc4
+timeCreated: 1517843406
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  - defaulticon: {fileID: 21300000, guid: 5fc06df38b8e2410d86ff74e49e824f8, type: 3}
+  - confirmicon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
+  - declineicon: {fileID: 21300000, guid: f3dd49996817a4233bc1c8a7a31201d4, type: 3}
+  - warningicon: {fileID: 21300000, guid: 31a09828117be473aa1e747cda212e85, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

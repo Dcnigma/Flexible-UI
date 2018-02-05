@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b5791c1df6c45a0bb96a13e83c6dc4, type: 3}
+  m_Name: Other Item
+  m_EditorClassIdentifier: 
+  buttonSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  buttonSpriteState:
+    m_HighlightedSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    m_PressedSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+    m_DisabledSprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  defaultColor: {r: 1, g: 0, b: 0, a: 1}
+  defaulticon: {fileID: 21300000, guid: cbaffe8f6566a47c2822f327541df8be, type: 3}
+  confirmColor: {r: 0.008974922, g: 0.11265066, b: 0.6102941, a: 1}
+  confirmicon: {fileID: 21300000, guid: 4981107aed21e4feb8953fdb1a39c1d6, type: 3}
+  declineColor: {r: 0.9485294, g: 0.5300605, b: 0.5300605, a: 1}
+  declineicon: {fileID: 21300000, guid: 4c737b67366844fb6b7c1e1c14868ab7, type: 3}
+  warningColor: {r: 0.2827586, g: 1, b: 0, a: 1}
+  warningicon: {fileID: 21300000, guid: cf28a3ad54ac5407f9258e3ef54dc872, type: 3}
